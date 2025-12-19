@@ -71,3 +71,6 @@ Just like any web application, my project can also be improved. A few ideias:
 **Fernet encryption and decryption:** https://medium.com/@rahulgosavi.94/fernet-encryption-and-decryption-2101f0e3097a
 
 **Generating a random password using the python random module:** https://docs.python.org/3/library/secrets.html#module-secrets
+
+## Source Code Access
+To comply with CS50's Academic Honesty Policy, the source code is hosted in a private repository to prevent plagiarism.
